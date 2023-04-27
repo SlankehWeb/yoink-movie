@@ -11,6 +11,7 @@ const assets = [
   "./assets/styles/main.css",
   "./assets/styles/loader.css",
   "./Pages/fallback.html",
+  "./assets/images/MOVIE CITY.png",
 ];
 
 const limitCacheSize = (cacheName, numAllowedFiles) => {
